@@ -12,10 +12,8 @@
   text-align: center;
   color: #fff;
   display: block;
-  padding: 10px;
   background-image: url("images/stars.png");
   background-size: cover;
-  width: 100%;
   background-position: center;
   object-fit: cover;
   height: 200px;
